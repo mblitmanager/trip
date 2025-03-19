@@ -26,7 +26,7 @@ And so on...
 
 ### Instructions
 
-- You should use the Symfony framework (latest version)
+- You should use the Symfony or Laravel framework (latest version)
 - Don't waste time with CSS, we don't care for the exercice
 - Add automated tests if possible
 - Record avideo of the project with the functionalities
